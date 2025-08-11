@@ -67,3 +67,32 @@ class ErrorResponse(BaseModel):
     success: bool = False
     error: str
     detail: Optional[str] = None
+
+
+class ProductConcept(BaseModel):
+    """Product concept for analysis"""
+    name: str
+    category: str
+    ingredients: str
+    target_demographics: str
+    region: str
+    flavor_profile: Optional[str] = None
+    description: Optional[str] = None
+
+
+class AnalysisResult(BaseModel):
+    """Analysis result data model"""
+    overall_score: float
+    market_demand: float
+    ingredient_trends: float
+    competition_level: float
+    innovation_factor: float
+    recommendation: str
+    risk_factor: str
+    analysis_breakdown: Dict[str, Any]
+
+
+class ProductAnalysisResponse(BaseModel):
+    """Response model for product analysis"""
+    success: bool
+    data: AnalysisResult
