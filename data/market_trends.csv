@@ -1,0 +1,101 @@
+id,ingredient_name,popularity_score,growth_rate,category,region,month,year
+1,Matcha,94,21.2,Beverages,Asia Pacific,6,2024
+2,Matcha,89,16.8,Snacks,North America,7,2024
+3,Acai,92,18.4,Beverages,Latin America,6,2024
+4,Acai,86,14.1,Snacks,North America,8,2024
+5,Turmeric,89,17.3,Beverages,North America,6,2024
+6,Turmeric,84,13.9,Dairy,Europe,7,2024
+7,Spirulina,87,16.2,Snacks,Europe,6,2024
+8,Spirulina,81,12.8,Beverages,North America,9,2024
+9,Quinoa,85,14.1,Cereals,Latin America,6,2024
+10,Quinoa,79,11.3,Snacks,North America,7,2024
+11,Green Tea,83,12.8,Beverages,Asia Pacific,6,2024
+12,Green Tea,78,9.5,Dairy,Global,8,2024
+13,Coconut,82,15.6,Snacks,Asia Pacific,6,2024
+14,Coconut,77,12.2,Beverages,Latin America,7,2024
+15,Ginger,81,11.1,Beverages,Asia Pacific,6,2024
+16,Ginger,76,7.8,Confectionery,Global,8,2024
+17,Oat Milk,79,10.4,Dairy,North America,6,2024
+18,Oat Milk,73,6.9,Beverages,Europe,7,2024
+19,Dark Chocolate,77,8.8,Confectionery,Europe,6,2024
+20,Dark Chocolate,72,5.5,Snacks,Global,9,2024
+21,Chickpeas,76,11.3,Cereals,Europe,6,2024
+22,Chickpeas,70,7.9,Snacks,Africa,7,2024
+23,Hibiscus,75,9.6,Beverages,Africa,6,2024
+24,Hibiscus,68,6.1,Confectionery,Latin America,8,2024
+25,Vanilla,70,5.8,Confectionery,Global,6,2024
+26,Vanilla,65,2.4,Dairy,North America,7,2024
+27,Honey,69,5.3,Cereals,Global,6,2024
+28,Honey,64,2.9,Confectionery,Europe,8,2024
+29,Sea Salt,68,3.6,Snacks,Global,6,2024
+30,Sea Salt,63,0.8,Frozen Foods,North America,7,2024
+31,Almonds,67,6.2,Snacks,North America,6,2024
+32,Almonds,62,3.1,Cereals,Europe,9,2024
+33,Coconut Water,66,7.8,Beverages,Asia Pacific,6,2024
+34,Coconut Water,61,5.1,Dairy,Latin America,7,2024
+35,Maple Syrup,64,3.4,Confectionery,North America,6,2024
+36,Maple Syrup,59,0.7,Cereals,Global,8,2024
+37,Matcha,91,19.1,Dairy,Asia Pacific,8,2024
+38,Matcha,86,15.3,Confectionery,North America,9,2024
+39,Acai,89,16.8,Cereals,Latin America,7,2024
+40,Acai,83,13.4,Dairy,North America,9,2024
+41,Turmeric,86,15.9,Snacks,North America,8,2024
+42,Turmeric,81,12.6,Cereals,Europe,9,2024
+43,Spirulina,84,14.8,Cereals,Europe,7,2024
+44,Spirulina,78,11.1,Dairy,North America,8,2024
+45,Quinoa,82,13.2,Snacks,Latin America,8,2024
+46,Quinoa,76,9.8,Beverages,North America,9,2024
+47,Green Tea,80,11.8,Confectionery,Asia Pacific,7,2024
+48,Green Tea,75,8.2,Cereals,Global,9,2024
+49,Coconut,79,14.1,Dairy,Asia Pacific,8,2024
+50,Coconut,74,10.7,Cereals,Latin America,9,2024
+51,Ginger,78,10.2,Snacks,Asia Pacific,7,2024
+52,Ginger,73,6.9,Dairy,Global,9,2024
+53,Oat Milk,76,9.3,Cereals,North America,8,2024
+54,Oat Milk,70,5.8,Confectionery,Europe,9,2024
+55,Dark Chocolate,74,7.9,Dairy,Europe,7,2024
+56,Dark Chocolate,69,4.6,Beverages,Global,8,2024
+57,Chickpeas,73,10.4,Snacks,Europe,8,2024
+58,Chickpeas,67,6.8,Beverages,Africa,9,2024
+59,Hibiscus,72,8.7,Cereals,Africa,7,2024
+60,Hibiscus,65,5.2,Dairy,Latin America,9,2024
+61,Vanilla,67,4.9,Beverages,Global,8,2024
+62,Vanilla,62,1.5,Snacks,North America,9,2024
+63,Honey,66,4.4,Snacks,Global,7,2024
+64,Honey,61,2.0,Beverages,Europe,9,2024
+65,Sea Salt,65,2.7,Cereals,Global,8,2024
+66,Sea Salt,60,0.1,Dairy,North America,9,2024
+67,Almonds,64,5.3,Cereals,North America,7,2024
+68,Almonds,59,2.2,Confectionery,Europe,8,2024
+69,Coconut Water,63,6.9,Cereals,Asia Pacific,8,2024
+70,Coconut Water,58,4.2,Confectionery,Latin America,9,2024
+71,Maple Syrup,61,2.5,Snacks,North America,7,2024
+72,Maple Syrup,56,0.1,Beverages,Global,9,2024
+73,Matcha,88,17.6,Cereals,Asia Pacific,10,2024
+74,Acai,85,15.1,Confectionery,Latin America,10,2024
+75,Turmeric,83,14.2,Dairy,North America,10,2024
+76,Spirulina,80,13.5,Confectionery,Europe,10,2024
+77,Quinoa,78,11.8,Dairy,Latin America,10,2024
+78,Green Tea,77,10.3,Snacks,Asia Pacific,10,2024
+79,Coconut,76,12.8,Confectionery,Asia Pacific,10,2024
+80,Ginger,75,9.1,Cereals,Asia Pacific,10,2024
+81,Oat Milk,73,8.2,Snacks,North America,10,2024
+82,Dark Chocolate,71,6.8,Cereals,Europe,10,2024
+83,Chickpeas,70,9.1,Dairy,Europe,10,2024
+84,Hibiscus,69,7.4,Snacks,Africa,10,2024
+85,Vanilla,64,3.6,Cereals,Global,10,2024
+86,Honey,63,3.1,Dairy,Global,10,2024
+87,Sea Salt,62,1.8,Confectionery,Global,10,2024
+88,Almonds,61,4.0,Dairy,North America,10,2024
+89,Coconut Water,60,5.6,Snacks,Asia Pacific,10,2024
+90,Maple Syrup,58,1.2,Dairy,North America,10,2024
+91,Matcha,93,20.3,Beverages,Asia Pacific,11,2024
+92,Acai,90,17.5,Beverages,Latin America,11,2024
+93,Turmeric,87,16.1,Beverages,North America,11,2024
+94,Spirulina,85,15.4,Snacks,Europe,11,2024
+95,Quinoa,83,13.5,Cereals,Latin America,11,2024
+96,Green Tea,81,11.6,Beverages,Asia Pacific,11,2024
+97,Coconut,80,14.2,Snacks,Asia Pacific,11,2024
+98,Ginger,79,10.7,Beverages,Asia Pacific,11,2024
+99,Oat Milk,77,9.1,Dairy,North America,11,2024
+100,Dark Chocolate,75,7.5,Confectionery,Europe,11,2024
